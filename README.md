@@ -4,12 +4,12 @@
   <tr>
     <td>
       <a href="https://github.com/im-ukr77">
-        <img src="https://github-readme-stats.vercel.app/api?username=im-ukr&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917" alt="im-ukr's GitHub stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=im-ukr77&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917" alt="im-ukr77's GitHub stats" />
       </a>
     </td>
     <td>
       <a href="https://github.com/im-ukr77">
-        <img src="https://nirzak-streak-stats.vercel.app/?user=im-ukr&theme=dark&background=1C1917&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&ring=0891b2&fire=0891b2&stroke=0891b2" alt="GitHub Streak Stats" />
+        <img src="https://nirzak-streak-stats.vercel.app/?user=im-ukr77&theme=dark&background=1C1917&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&ring=0891b2&fire=0891b2&stroke=0891b2" alt="GitHub Streak Stats" />
       </a>
     </td>
   </tr>
@@ -17,7 +17,7 @@
 
 <h1 align="center">GitHub Contributions Graph</h1>
 
-[![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=im-ukr&theme=github-dark)](https://github.com/im-ukr)
+[![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=im-ukr77&theme=github-dark)](https://github.com/im-ukr)
 
 
 
