@@ -9,7 +9,7 @@
     </td>
     <td>
       <a href="https://github.com/im-ukr77">
-        <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=im-ukr77&" alt="Streak Stats" /></p>
+        <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=im-ukr77&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917" alt="Streak Stats" /></p>
       </a>
     </td>
   </tr>
