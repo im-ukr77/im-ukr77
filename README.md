@@ -9,7 +9,7 @@
     </td>
     <td>
       <a href="https://github.com/im-ukr77">
-        <img src="https://nirzak-streak-stats.vercel.app/?user=im-ukr77&theme=dark&background=1C1917&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&ring=0891b2&fire=0891b2&stroke=0891b2" alt="GitHub Streak Stats" />
+        <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=im-ukr77&" alt="Streak Stats" /></p>
       </a>
     </td>
   </tr>
